@@ -1,0 +1,2 @@
+PHP based diary. There is a login/sign-up system with authentication and everything is saved in SQL database.
+The user can edit a text area. The information from the diary is retrieved back and forth from the database everytime the user accesses his profile.
